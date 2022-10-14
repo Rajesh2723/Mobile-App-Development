@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string-array name="app_name">
+        <item> Select</item>
+        <item> UsD To INR</item>
+        <item> INR To Usd</item>
+        <item> GBP TO INR</item>
+        <item> INR TO GBP </item>
+    </string-array>
+</resources>
